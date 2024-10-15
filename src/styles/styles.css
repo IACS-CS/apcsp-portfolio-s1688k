@@ -2,18 +2,14 @@
 
 body {
 
-
- 
-
-.playwrite-gb-s-<uniquifier> {
-  font-family: "Playwrite GB S", cursive;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
+  
+    font-family: "Playwrite GB S", cursive;
+  font-weight: 400;
   font-style: normal;
-}
+
+background-color: rgba(255, 192, 203, 0.527);
   }
-  background-color: #c469a749; /* Hex color */
-}
+  
 
 
 
