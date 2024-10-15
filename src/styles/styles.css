@@ -2,11 +2,15 @@
 
 body {
 
-  .indie-flower-regular {
-  font-family: "Indie Flower", cursive;
-  font-weight: 400;
-  font-style: normal;
 
+ 
+
+.playwrite-gb-s-<uniquifier> {
+  font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
   }
   background-color: #c469a749; /* Hex color */
 }
