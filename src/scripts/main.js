@@ -1,5 +1,6 @@
 import "../styles/styles.css";
 // Add imports here
+import 'animate.css';
 
 console.log("What?");
 console.log("Hello world, from main.js!");
