@@ -1,7 +1,5 @@
 /* empty css                                */
 
-// Add imports here
-
 console.log("What?");
 console.log("Hello world, from main.js!");
 if (typeof window !== "undefined") {
