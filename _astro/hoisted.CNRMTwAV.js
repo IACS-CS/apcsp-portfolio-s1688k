@@ -1,4 +1,4 @@
-/* empty css                                  */
+/* empty css                                        */
 
 console.log("What?");
 console.log("Hello world, from main.js!");
